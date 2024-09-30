@@ -58,6 +58,7 @@ p {
 
 #resetBtn {
   background-color: #dc3545;
+  margin-top: 10px;
 }
 
 #resetBtn:hover {
